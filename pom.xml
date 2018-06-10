@@ -139,7 +139,7 @@
         <!-- XML/JSon -->
         <jaxp-api.version>1.4.2</jaxp-api.version>
         <jdom.version>1.1</jdom.version>
-        <xstream.version>1.4.3</xstream.version>
+        <xstream.version>1.4.10</xstream.version>
         <gson.version>2.2.4</gson.version>
 
         <!-- cloudfoundry -->
@@ -156,7 +156,7 @@
         <activemq.version>5.12.0</activemq.version>
 
         <activiti.version>5.17.0</activiti.version>
-        <jasypt.version>1.9.0</jasypt.version>
+        <jasypt.version>1.9.2</jasypt.version>
 
         <!-- Log dependencies -->
         <!-- should ensure all versions are matching, for slf4j !!!-->
