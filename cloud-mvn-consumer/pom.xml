@@ -24,7 +24,7 @@
     <name>${project.artifactId} - Library to access a Maven repository</name>
     <description>Library to access a Maven repository</description>
     <properties>
-        <mavenVersion>3.2.5</mavenVersion>
+        <mavenVersion>3.5.0</mavenVersion>
         <wagonVersion>2.8</wagonVersion>
         <!--<aetherVersion>1.13.1</aetherVersion>-->
         <aetherVersion>1.0.1.v20141111</aetherVersion>
