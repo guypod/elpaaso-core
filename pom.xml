@@ -134,7 +134,7 @@
         <commons-pool.version>1.5.6</commons-pool.version>
 
         <!-- WS -->
-        <cxf.version>3.1.2</cxf.version>
+        <cxf.version>3.1.16</cxf.version>
 
         <!-- XML/JSon -->
         <jaxp-api.version>1.4.2</jaxp-api.version>
