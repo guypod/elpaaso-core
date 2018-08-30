@@ -25,7 +25,7 @@
     <description>Library to access a Maven repository</description>
     <properties>
         <mavenVersion>3.2.5</mavenVersion>
-        <wagonVersion>2.8</wagonVersion>
+        <wagonVersion>2.12</wagonVersion>
         <!--<aetherVersion>1.13.1</aetherVersion>-->
         <aetherVersion>1.0.1.v20141111</aetherVersion>
     </properties>
