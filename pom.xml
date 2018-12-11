@@ -156,7 +156,7 @@
         <activemq.version>5.12.0</activemq.version>
 
         <activiti.version>5.17.0</activiti.version>
-        <jasypt.version>1.9.0</jasypt.version>
+        <jasypt.version>1.9.2</jasypt.version>
 
         <!-- Log dependencies -->
         <!-- should ensure all versions are matching, for slf4j !!!-->
