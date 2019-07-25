@@ -210,7 +210,7 @@
                 <!-- override spring boot 1.2.4 liquibase version to avoid https://liquibase.jira.com/browse/CORE-2346 -->
                 <groupId>org.liquibase</groupId>
                 <artifactId>liquibase-core</artifactId>
-                <version>3.3.2</version>
+                <version>3.7.0</version>
 
             </dependency>
             <dependency>
