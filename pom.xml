@@ -175,7 +175,7 @@
         <apache-httpclient.version>4.3.5</apache-httpclient.version>
         <apache-httpclient-core.version>4.3.3</apache-httpclient-core.version>
         <!-- Should be removed in favor of 4.2.2 -->
-        <commons.codec.version>1.6</commons.codec.version>
+        <commons.codec.version>1.13</commons.codec.version>
         <dozer.version>5.3.2</dozer.version>
         <jolokia.version>1.2.2</jolokia.version>
         <hazelcast.version>3.1.5</hazelcast.version>
