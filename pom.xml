@@ -164,7 +164,7 @@
 
 
         <!-- Utilities -->
-        <guava.version>13.0.1</guava.version>
+        <guava.version>30.0-android</guava.version>
         <commons-collections.version>3.2.1</commons-collections.version>
         <commons-compress.version>1.4.1</commons-compress.version>
         <commons-configuration.version>1.9</commons-configuration.version>
