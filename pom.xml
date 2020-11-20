@@ -139,7 +139,7 @@
         <!-- XML/JSon -->
         <jaxp-api.version>1.4.2</jaxp-api.version>
         <jdom.version>1.1</jdom.version>
-        <xstream.version>1.4.3</xstream.version>
+        <xstream.version>1.4.14</xstream.version>
         <gson.version>2.2.4</gson.version>
 
         <!-- cloudfoundry -->
